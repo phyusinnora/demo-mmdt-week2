@@ -1,3 +1,3 @@
-print("Hello Feb 15!")
+print("Hello Feb!")
 
 print("Add new line")
